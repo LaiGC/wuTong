@@ -3,6 +3,8 @@ package com.itheima.git;
 public class FirstClass {
     public static void main(String[] args) {
         System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
 
         FirstClass a = new FirstClass();
         int sum = a.add(1, 2);
